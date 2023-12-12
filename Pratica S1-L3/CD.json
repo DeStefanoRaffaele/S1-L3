@@ -1,0 +1,26 @@
+{
+	"CD":
+	{
+		"Casa discografica":"Universal",
+		"Artista":"Vasco Rossi",
+		"Anno":"1998",
+	    "Canzoni":
+	   [
+		{
+			"Traccia":"1",
+			"Nome":"Albachiara",
+			"Durata":2.5
+		},
+	    {
+			"Traccia":"2",
+			"Nome":"Vivere",
+			"Durata":3.0
+		},
+	    {
+			"Traccia":"3",
+			"Nome":"Vado al massimo",
+			"Durata":3.5
+		}
+	   ]
+	}
+}

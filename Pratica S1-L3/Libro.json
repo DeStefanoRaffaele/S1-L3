@@ -1,0 +1,11 @@
+{
+			"Libro":
+		{
+			"Capitoli":20,
+			"Autore":
+			{
+				"Nome":"Omero",
+				"Indirizzo":"Grecia"
+			}
+		}
+}
